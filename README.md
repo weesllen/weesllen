@@ -1,6 +1,6 @@
-<h1 align="center">Olá! Eu sou Wesllen Correia 👋</h1>
+<h1 align="start">Wesllen Correia 👋</h1>
 
-<p align="center">
+<p align="start">
   Estudante de Análise e Desenvolvimento de Sistemas | Desenvolvedor Web em formação <br/>
   Apaixonado por tecnologia, focado em back-end, mas com boas práticas de front-end também! 🚀
 </p>
