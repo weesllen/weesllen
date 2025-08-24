@@ -35,7 +35,7 @@ Busco uma oportunidade como estagiário ou desenvolvedor júnior para continuar 
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weesllen&show_icons=true&theme=github_dark&hide_title=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=weesllen&show_icons=true&theme=github_dark&hide_title=true&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=weesllen&layout=compact&theme=github_dark)
 
